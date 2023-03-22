@@ -15,3 +15,12 @@
  </p>
  
  המשחק הוא מחק יומיומי שאפשר להיכנס ולשחק בכל רגע. למשחק יהיו שלבים רבים ומטרת הפיתוח היא להוסיף עם הזמן עוד ועוד שלבים כדי לתת לשחק עוד עניין.
+ 
+ מהלך המשחק יהיה באופן הבא:
+ <p align="center">
+ <img
+   src="/game pkay screen.jpg"
+   alt="game play"
+   title="game play"
+   style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
+ </p>
